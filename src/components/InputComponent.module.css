@@ -1,0 +1,51 @@
+.inputContainer{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 550px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 10px #fdd9ed;
+    background-color: rgb(243, 245, 245);
+}
+
+h1{
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fe30a1;
+}
+
+label{
+    margin: 50px 0 10px 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fe30a1;
+}
+
+span{
+    width: 150px;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #b32372;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 50px;
+    box-shadow: 0 0 5px 5px #fccbe6;
+    outline: none;
+    background-color: transparent;
+}
+
+h2{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #b32372;
+}
